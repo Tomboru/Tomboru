@@ -27,15 +27,17 @@ I am a passionate eighteen year old sloth that is a programmer from Switzwerland
 - 📍 2021 Goals: Finish the course and pass the first semester
 
 **Languages and Tools:** &nbsp;
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> </code>
+<a href="https://www.w3schools.com/js/">
+  <img  alt="Javascript" width="16px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" />
+</a>
 <a href="https://code.visualstudio.com/">
   <img  alt="Visual Studio Code" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 </a>
 <a href="https://www.jetbrains.com/de-de/idea/">
-  <img  alt="IntelliJ IDEA" width="16px" src="https://image.pngaaa.com/514/654514-middle.png" />
+  <img  alt="IntelliJ IDEA" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
 </a>
 <a href="https://www.jetbrains.com/de-de/datagrip/">
-  <img  alt="DataGrip" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/1024px-DataGrip.svg" />
+  <img  alt="DataGrip" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/1024px-DataGrip.svg.png" />
 </a>
 
 <p align="center">
