@@ -24,7 +24,7 @@ I am a passionate eighteen year old sloth programmer from Switzwerland.
 - 📚 I'm currently learning [Java](https://www.w3schools.com/java/), [Angular](https://www.w3schools.com/Angular/), [HTML5](https://www.w3schools.com/html/) and [Shell-Scripting](https://www.tutorialspoint.com/unix/shell_scripting.htm) 
 - 🎓 I'm a student at the [WISS](https://www.wiss.ch/) School
 - 📬 How to reach me: kkhilko9@gmail.com <br>
-- 📍 2021 Goals: Finish the course and pass the first semester
+- 📍 2022 Goals: Still finish the courses and contribute more.
 
 **Languages and Tools:** &nbsp;
 <a href="https://www.w3schools.com/js/">
