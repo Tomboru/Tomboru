@@ -19,7 +19,7 @@
 
 ### Who I am 🥺👉👈
 
-I am a passionate nineteen year old sloth programmer from Switzerland.
+I am a passionate nineteen-year-old sloth programmer from Switzerland.
 - 📓 I'm taking a course from Google for Data Analytics
 - 📚 I'm currently learning [Spring boot](https://spring.io/), [Angular](https://angular.io/) and [React](https://www.w3schools.com/react/)
 - 🎓 I'm a student at the [WISS](https://www.wiss.ch/) School
