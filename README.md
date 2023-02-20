@@ -82,7 +82,7 @@ I am a passionate nineteen-year-old sloth programmer from Switzerland.
   <img  alt="Termius" width="16px" src="https://dl2.macupdate.com/images/icons256/58537.png" />
 </a>
 <a href="https://www.figma.com/">
-  <img  alt="Figma" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+  <img  alt="Figma" width="16px" src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" />
 </a>
 
 
