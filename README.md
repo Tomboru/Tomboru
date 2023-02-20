@@ -55,7 +55,7 @@ I am a passionate nineteen-year-old sloth programmer from Switzerland.
   <img  alt="Bash" width="16px" src="https://findicons.com/files/icons/2773/pictonic_free/128/prog_bash02.png" />
 </a>
 <a href="https://www.mysql.com/de/">
-  <img  alt="MySQL" width="16px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" />
+  <img  alt="MySQL" width="16px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" />
 </a>
 <a href="https://mariadb.org/">
   <img  alt="MariaDB" width="16px" src="https://static-00.iconduck.com/assets.00/mariadb-icon-512x340-txozryr2.png" />
