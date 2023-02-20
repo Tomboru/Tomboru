@@ -67,7 +67,7 @@ I am a passionate nineteen-year-old sloth programmer from Switzerland.
   <img  alt="Git" width="16px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 </a>
 <a href="https://nodejs.org/en/">
-  <img  alt="NodeJS" width="16px" src="https://img1.gratispng.com/20180421/yve/kisspng-node-js-javascript-npm-express-js-sharp-5adc00b68160a0.9169331415243675425299.jpg" />
+  <img  alt="NodeJS" width="16px" src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-icon-logo.png" />
 </a>
 <a href="https://code.visualstudio.com/">
   <img  alt="Visual Studio Code" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
