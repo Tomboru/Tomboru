@@ -87,7 +87,6 @@ I am a passionate nineteen-year-old sloth programmer from Switzerland.
 
 
 <p align="center">
-    
     <img align="center" alt="Tomboru's Github stats" src="https://github-readme-stats.vercel.app/api?username=tomboru&show_icons=true&theme=radical&line_height=21">
 </p>
 
