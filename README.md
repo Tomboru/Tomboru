@@ -5,11 +5,11 @@
 <a href="https://www.instagram.com/tomboru/">
   <img  alt="Instagram" width="16px" src="https://www.iconsdb.com/icons/preview/gray/instagram-xxl.png" />
 </a>
-<a href="https://twitter.com/tomboru">
-  <img  alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://www.iconsdb.com/icons/preview/gray/twitter-xxl.png" />
+<a href="https://www.linkedin.com/in/kirill-khilko-bb7a95230/">
+  <img  alt="LinkedIn" width="16px" src="https://www.iconsdb.com/icons/preview/gray/linkedin-xxl.png" />
 </a>
 <a href="https://www.twitch.tv/tomboru">
-  <img  alt="Ohidur Rahman Bappy's Linkdein" width="16px" src="https://www.iconsdb.com/icons/preview/gray/twitch-tv-xxl.png" />
+  <img  alt="Twitch" width="16px" src="https://www.iconsdb.com/icons/preview/gray/twitch-tv-xxl.png" />
 </a>
 <a href="https://github.com/Tomboru">
   <img  alt="Github" width="16px" src="https://www.iconsdb.com/icons/preview/gray/github-6-xxl.png" />
@@ -20,11 +20,11 @@
 ### Who I am 🥺👉👈
 
 I am a passionate nineteen-year-old sloth programmer from Switzerland.
-- 📓 I'm taking a course from Google for Data Analytics
-- 📚 I'm currently learning [Spring boot](https://spring.io/), [Angular](https://angular.io/) and [React](https://www.w3schools.com/react/)
-- 🎓 I'm a student at the [WISS](https://www.wiss.ch/) School
+- 📓 I'm working on my own Project [Project Lost](https://projectlost.org)
+- 📚 I'm currently learning [Git](https://git-scm.com/book), [Docker](https://docs.docker.com/)
+- 🎓 I'm a student at the [WISS](https://www.wiss.ch/)
 - 📬 How to reach me: kkhilko9@gmail.com <br>
-- 📍 2022 Goals: Finish my project Odin.
+- 📍 2023 Goals: Release first Project from Project Lost
 
 **Languages and Tools:** &nbsp;
 <a href="https://www.w3schools.com/js/">
@@ -54,15 +54,37 @@ I am a passionate nineteen-year-old sloth programmer from Switzerland.
 <a href="https://devdocs.io/bash/">
   <img  alt="Bash" width="16px" src="https://findicons.com/files/icons/2773/pictonic_free/128/prog_bash02.png" />
 </a>
+<a href="https://www.mysql.com/de/">
+  <img  alt="MySQL" width="16px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" />
+</a>
+<a href="https://mariadb.org/">
+  <img  alt="MariaDB" width="16px" src="https://e7.pngegg.com/pngimages/468/466/png-clipart-mariadb-mysql-amazon-relational-database-service-fork-marine-mammal-mammal-thumbnail.png" />
+</a>
+<a href="https://git-scm.com/">
+  <img  alt="Git" width="16px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+</a>
+<a href="https://nodejs.org/en/">
+  <img  alt="NodeJS" width="16px" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" />
+</a>
+<a href="https://www.mongodb.com/">
+  <img  alt="MongoDB" width="16px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" />
+</a>
 <a href="https://code.visualstudio.com/">
   <img  alt="Visual Studio Code" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 </a>
-<a href="https://www.jetbrains.com/de-de/idea/">
+<a href="https://www.jetbrains.com/idea/">
   <img  alt="IntelliJ IDEA" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
 </a>
-<a href="https://www.jetbrains.com/de-de/datagrip/">
+<a href="https://www.jetbrains.com/datagrip/">
   <img  alt="DataGrip" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/1024px-DataGrip.svg.png" />
 </a>
+<a href="https://www.termius.com/">
+  <img  alt="Termius" width="16px" src="https://dl2.macupdate.com/images/icons256/58537.png" />
+</a>
+<a href="https://www.figma.com/">
+  <img  alt="Figma" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+</a>
+
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomboru&theme=radical&hide_langs_below=1&layout=compact)">
