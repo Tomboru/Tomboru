@@ -58,7 +58,7 @@ I am a passionate nineteen-year-old sloth programmer from Switzerland.
   <img  alt="MySQL" width="16px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" />
 </a>
 <a href="https://mariadb.org/">
-  <img  alt="MariaDB" width="16px" src="https://cdn.chimpify.net/5863a852a65872a22d8b4568/2015/10/mariadb-logo@2x.png" />
+  <img  alt="MariaDB" width="16px" src="https://static-00.iconduck.com/assets.00/mariadb-icon-512x340-txozryr2.png" />
 </a>
 <a href="https://www.mongodb.com/">
   <img  alt="MongoDB" width="16px" src="https://img.icons8.com/color/512/mongodb.png" />
