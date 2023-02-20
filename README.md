@@ -67,7 +67,7 @@ I am a passionate nineteen-year-old sloth programmer from Switzerland.
   <img  alt="NodeJS" width="16px" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" />
 </a>
 <a href="https://www.mongodb.com/">
-  <img  alt="MongoDB" width="16px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" />
+  <img  alt="MongoDB" width="16px" src="https://img.icons8.com/color/512/mongodb.png" />
 </a>
 <a href="https://code.visualstudio.com/">
   <img  alt="Visual Studio Code" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
