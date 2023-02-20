@@ -60,14 +60,14 @@ I am a passionate nineteen-year-old sloth programmer from Switzerland.
 <a href="https://mariadb.org/">
   <img  alt="MariaDB" width="16px" src="https://e7.pngegg.com/pngimages/468/466/png-clipart-mariadb-mysql-amazon-relational-database-service-fork-marine-mammal-mammal-thumbnail.png" />
 </a>
+<a href="https://www.mongodb.com/">
+  <img  alt="MongoDB" width="16px" src="https://img.icons8.com/color/512/mongodb.png" />
+</a>
 <a href="https://git-scm.com/">
   <img  alt="Git" width="16px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 </a>
 <a href="https://nodejs.org/en/">
-  <img  alt="NodeJS" width="16px" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" />
-</a>
-<a href="https://www.mongodb.com/">
-  <img  alt="MongoDB" width="16px" src="https://img.icons8.com/color/512/mongodb.png" />
+  <img  alt="NodeJS" width="16px" src="https://w7.pngwing.com/pngs/493/735/png-transparent-node-js-javascript-express-js-mongodb-github-github-angle-text-logo-thumbnail.png" />
 </a>
 <a href="https://code.visualstudio.com/">
   <img  alt="Visual Studio Code" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
