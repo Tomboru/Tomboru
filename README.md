@@ -69,6 +69,9 @@ I am a passionate nineteen-year-old sloth programmer from Switzerland.
 <a href="https://nodejs.org/en/">
   <img  alt="NodeJS" width="16px" src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-icon-logo.png" />
 </a>
+<a href="https://www.docker.com/">
+  <img  alt="Docker" width="16px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
+</a>
 <a href="https://code.visualstudio.com/">
   <img  alt="Visual Studio Code" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 </a>
