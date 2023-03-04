@@ -63,6 +63,9 @@ I am a passionate nineteen-year-old sloth programmer from Switzerland.
 <a href="https://www.mongodb.com/">
   <img  alt="MongoDB" width="16px" src="https://img.icons8.com/color/512/mongodb.png" />
 </a>
+<a href="https://redis.io/">
+  <img  alt="Redis" width="16px" src="https://th.bing.com/th/id/R.107069d84c7d772502f9e3a27efc8496?rik=jqB97C3dzgg2vQ&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f584830b5cef1014c0b5e4a9c.png&ehk=aZu5BGhjvuzsKYrTO8dXIccKFHYEpWmAJ9qgeGhnx%2bc%3d&risl=&pid=ImgRaw&r=0" />
+</a>
 <a href="https://git-scm.com/">
   <img  alt="Git" width="16px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 </a>
