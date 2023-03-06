@@ -31,7 +31,7 @@ I am a passionate nineteen-year-old sloth programmer from Switzerland.
   <img  alt="Javascript" width="16px" src="https://www.t-systems-mms.com/karriere/stellenboerse/img0.php?id=214.png" />
 </a>
 <a href="https://docs.oracle.com/en/java/">
-  <img  alt="Java" width="16px" src="https://mpng.subpng.com/20180404/ebw/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598db779939.2171835915228991634899.jpg" />
+  <img  alt="Java" width="16px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 </a>
 <a href="https://www.w3schools.com/html/">
   <img  alt="HTML5" width="16px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />
