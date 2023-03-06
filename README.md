@@ -93,8 +93,7 @@ I am a passionate nineteen-year-old sloth programmer from Switzerland.
 <a href="https://www.figma.com/">
   <img  alt="Figma" width="24px" src="https://www.svgrepo.com/show/452202/figma.svg" />
 </a>
-<hr>
-
+##
 
 <p>
     <img align="center" alt="Tomboru's Github stats" src="https://github-readme-stats.vercel.app/api?username=tomboru&show_icons=true&theme=radical&line_height=21">
