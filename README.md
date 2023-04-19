@@ -21,7 +21,7 @@
 
 I am a passionate nineteen-year-old sloth programmer from Switzerland.
 - 📓 I'm working on my own Project [Project Lost](https://projectlost.org)
-- 📚 I'm currently learning [Git](https://git-scm.com/book), [Docker](https://docs.docker.com/)
+- 📚 I'm currently learning [SAP](https://www.sap.com/), [ABAP](https://help.sap.com/doc/abapdocu_751_index_htm/7.51/en-US/index.htm)
 - 🎓 I'm a student at the [WISS](https://www.wiss.ch/)
 - 📬 How to reach me: kkhilko9@gmail.com <br>
 - 📍 2023 Goals: Release first Project from Project Lost
