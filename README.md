@@ -24,7 +24,6 @@ I am a passionate twenty-year-old sloth programmer from Switzerland.
 - 📚 I currently have an intership at [Würth ITensis](https://www.wuerth-itensis.com/) as a Finance Application Inhouse Engineer
 - 🎓 I'm a student at the [WISS](https://www.wiss.ch/)
 - 📬 How to reach me: kkhilko9@gmail.com <br>
-- 📍 2023 Goals: Release first Project from Project Lost
 
 ## **Languages and Tools:** &nbsp;
 <a href="https://www.w3schools.com/js/">
