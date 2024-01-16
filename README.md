@@ -19,9 +19,9 @@
 
 ### Who I am 🥺👉👈
 
-I am a passionate nineteen-year-old sloth programmer from Switzerland.
+I am a passionate twenty-year-old sloth programmer from Switzerland.
 - 📓 I'm working on my own Project [Project Lost](https://projectlost.org)
-- 📚 I'm currently learning [SAP](https://www.sap.com/), [ABAP](https://help.sap.com/doc/abapdocu_751_index_htm/7.51/en-US/index.htm)
+- 📚 I currently have an intership at [Würth ITensis](https://www.wuerth-itensis.com/) as a Finance Application Inhouse Engineer
 - 🎓 I'm a student at the [WISS](https://www.wiss.ch/)
 - 📬 How to reach me: kkhilko9@gmail.com <br>
 - 📍 2023 Goals: Release first Project from Project Lost
