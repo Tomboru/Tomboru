@@ -19,7 +19,7 @@
 
 ### Who I am 🥺👉👈
 
-I am a passionate twenty-year-old sloth programmer from Switzerland.
+I am a passionate twentyone-year-old programmer from Switzerland.
 - 📓 I'm working on my own Project [Project Lost](https://projectlost.org)
 - 📚 I currently have an intership at [Würth ITensis](https://www.wuerth-itensis.com/) as a Finance Application Inhouse Engineer
 - 🎓 I'm a student at the [WISS](https://www.wiss.ch/)
