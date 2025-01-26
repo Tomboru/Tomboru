@@ -21,7 +21,7 @@
 
 I am a passionate twentyone-year-old programmer from Switzerland.
 - 📓 I'm working on my own Project [Project Lost](https://projectlost.org)
-- 📚 I currently have an intership at [Würth ITensis](https://www.wuerth-itensis.com/) as a Finance Application Inhouse Engineer
+- 📚 I currently have an intership at [Würth IT Switzerland](https://www.wuerth-itensis.com/) as a SAP Finance Application Inhouse Engineer
 - 🎓 I'm a student at the [WISS](https://www.wiss.ch/)
 - 📬 How to reach me: kkhilko9@gmail.com <br>
 
