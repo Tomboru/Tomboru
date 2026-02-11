@@ -17,12 +17,12 @@
 
 <br />
 
-### Who I am 🥺👉👈
+### Who I am
 
 I am a passionate twentyone-year-old programmer from Switzerland.
 - 📓 I'm working on my own Project [Project Lost](https://projectlost.org)
 - 📚 I currently have an intership at [Würth IT Switzerland](https://www.wuerth-itensis.com/) as a SAP Finance Application Inhouse Engineer
-- 🎓 I'm a student at the [WISS](https://www.wiss.ch/)
+- 🎓 I'm a student at the [UoL]([https://www.wiss.ch/](https://onlinecourses.london.ac.uk/undergraduate/management-degrees/business-management/))
 - 📬 How to reach me: kkhilko9@gmail.com <br>
 
 ## **Languages and Tools:** &nbsp;
